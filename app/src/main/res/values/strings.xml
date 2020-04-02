@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data Binding</string>
+    <string name="like">like</string>
+    <string name="dislike">dislike</string>
+    <string name="total_likes">152</string>
+    <string name="total_dislikes">20</string>
+</resources>
